@@ -14,7 +14,7 @@
 
 <details>
   
-  [![GitHub metrics](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml/badge.svg)](https://badges.pufler.dev)
+  [![GitHub metrics](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml/badge.svg)](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml)
 
 
 <summary>GitHub Metrics (expand)</summary>
