@@ -12,8 +12,6 @@
   <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=alexxxdev&layout=compact&card_width=250&hide_border=true&theme=tokyonight" /
 </a>
 
-[![GitHub metrics](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml/badge.svg)](https://badges.pufler.dev)
-
 <details>
   
   [![GitHub metrics](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml/badge.svg)](https://badges.pufler.dev)
