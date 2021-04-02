@@ -12,10 +12,14 @@
   <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=alexxxdev&layout=compact&card_width=250&hide_border=true&theme=tokyonight" /
 </a>
 
-<details>
-  <summary>GitHub Metrics (expand)</summary>
-  
-[![GitHub metrics](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml/badge.svg)](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml)
+[![GitHub metrics](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml/badge.svg)](https://badges.pufler.dev)
 
+<details>
+  
+  [![GitHub metrics](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml/badge.svg)](https://badges.pufler.dev)
+
+
+<summary>GitHub Metrics (expand)</summary>
+  
 ![GitHub metrics](https://github.com/alexxxdev/alexxxdev/blob/master/github-metrics.svg)
 </details>
