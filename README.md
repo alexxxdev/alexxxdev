@@ -14,6 +14,8 @@
 
 <details>
   <summary>GitHub Metrics (expand)</summary>
+  
+[![GitHub metrics](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml/badge.svg)](https://github.com/alexxxdev/alexxxdev/actions/workflows/metrics.yml)
 
 ![GitHub metrics](https://github.com/alexxxdev/alexxxdev/blob/master/github-metrics.svg)
 </details>
