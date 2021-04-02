@@ -3,6 +3,8 @@
 [![Gists Badge](https://badges.pufler.dev/gists/alexxxdev)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/alexxxdev/alexxxdev)](https://badges.pufler.dev)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=alexxxdev&theme=darkhub&no-bg=true&no-frame=true)
+
 <a href="https://github.com/alexxxdev">
   <img align="left" src="https://github-readme-stats.alexxxdev.vercel.app/api?username=alexxxdev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 </a>
